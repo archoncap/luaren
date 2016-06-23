@@ -1,3 +1,5 @@
+作者：糖果
+
 Curl是一个WEB开发常用的工具，直接用官网的翻译
 
 curl是一个开源的命令行工具，也是一个库，用于传输URL语法的工具，支持DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMTP, SMTPS, Telnet and TFTP等。
